@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Logical Simulator](https://logical-simulator.com/) with [@Bobingstern](https://github.com/Bobingstern) at [https://github.com/LogicalSimulator/LogicalSimulator](https://github.com/LogicalSimulator/LogicalSimulator)!
+- 🔭 I’m currently working on [Logical Simulator](https://logical-simulator.com/) with [@Bobingstern](https://github.com/Bobingstern)!
 - 🌱 I’m currently learning **Python**, **Java**, **HTML**, **CSS**, **JavaScript** (also with [p5js](https://p5js.org/) and/or React), **TypeScript** (in [MakeCode Arcade](https://arcade.makecode.com/), with [p5js](https://p5js.org/), and/or React), embedded **C++** (with Arduino), and **Rust**.
 - 📫 How to reach me: `UnsignedArduino@outlook.com` or [`UnsignedArduino`](https://forum.makecode.com/u/UnsignedArduino/summary) on the [MakeCode Forums](https://forum.makecode.com/).
 - 😄 Pronouns: He
