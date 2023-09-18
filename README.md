@@ -13,6 +13,7 @@
   - Embedded **C++** (with Arduino)
   - **SQL**
   - **Rust**
+  - **Buildroot** (with the Raspberry Pi)
 - 📫 How to reach me: `UnsignedArduino@outlook.com` or [`UnsignedArduino`](https://forum.makecode.com/u/UnsignedArduino/summary) on the [MakeCode Forums](https://forum.makecode.com/).
 - 😄 Pronouns: He
 - ⚡ Fun fact: I don't think block coding is pathetic when the project has over 1k blocks.
