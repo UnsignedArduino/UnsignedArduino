@@ -4,7 +4,7 @@
   - [Logical Simulator](https://logical-simulator.com/) with [@Bobingstern](https://github.com/Bobingstern) - the modern and intuitive digital logic gate simulator.
   - A website with my list of [Awesome Arcade Extensions](https://awesome-arcade-extensions.vercel.app/)!
   - A digital [chessboard](https://github.com/UnsignedArduino/Chessboard) built with Arduino and Raspberry Pi.
-  - A low-resource [chess engine](https://github.com/Bobingstern/TinyChess) and testing framework with [@Bobingstern](https://github.com/Bobingstern) in C++.
+  - A low-resource [chess engine](https://github.com/Bobingstern/TinyChess) and [testing framework](https://github.com/UnsignedArduino/TinyTest) with [@Bobingstern](https://github.com/Bobingstern) in C++.
   - A [full-featured video player](https://github.com/UnsignedArduino/PyGamer-RAV-player) on the Adafruit PyGamer with Arduino and a [custom video format](https://github.com/UnsignedArduino/RAV-converter). 
 - 🌱 I’m currently learning:
   - **Python**
