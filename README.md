@@ -15,6 +15,7 @@
   - **C++** (also embedded C++ with Arduino)
   - **SQL**
   - **Buildroot** (with the Raspberry Pi)
+  - **Deploying and managing infrastructure** (on the Raspberry Pi)
 - 📫 How to reach me: `UnsignedArduino@outlook.com` or [`UnsignedArduino`](https://forum.makecode.com/u/UnsignedArduino/summary) on the [MakeCode Forums](https://forum.makecode.com/).
 - 😄 Pronouns: He
 - ⚡ Fun fact: Block coding is cool when the project has over 1k blocks.
