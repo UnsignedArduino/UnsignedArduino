@@ -11,7 +11,7 @@
   - **JavaScript** (also with [p5js](https://p5js.org/) and/or React)
   - **TypeScript** (in [MakeCode Arcade](https://arcade.makecode.com/), with [p5js](https://p5js.org/), and/or React)
   - **C++** (also embedded with Arduino)
-  - **SQL**
+  - **SQL** and **NoSQL** databases
   - **Buildroot** (with the Raspberry Pi)
   - **Deploying and managing infrastructure** (on the Raspberry Pi)
   - **Hardware development** (with Arduino)
