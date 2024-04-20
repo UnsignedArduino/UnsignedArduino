@@ -16,6 +16,7 @@
   - **Deploying and managing infrastructure** (on the Raspberry Pi)
   - **Hardware development** (with Arduino)
   - **3D printing and modeling**
+  - **PCB development**
 - 📫 How to reach me: `UnsignedArduino@outlook.com` or [`UnsignedArduino`](https://forum.makecode.com/u/UnsignedArduino/summary) on the [MakeCode Forums](https://forum.makecode.com/).
 - 😄 Pronouns: He
 - ⚡ Fun fact: Block coding is cool when the project has over 1k blocks.
