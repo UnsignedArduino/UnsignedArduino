@@ -9,7 +9,7 @@
   - **Java**
   - **HTML**
   - **CSS**
-  - **JavaScript** (also with [p5js](https://p5js.org/) and/or React)
+  - **JavaScript**
   - **TypeScript** (in [MakeCode Arcade](https://arcade.makecode.com/), with [p5js](https://p5js.org/), and/or React)
   - **C++** (also embedded with Arduino)
   - **SQL** and **NoSQL** databases
