@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on many things, including:
   - A website about [MakeCode Arcade](https://awesome-arcade.vercel.app/)!
-  - An e-paper weather display based on the ESP32!
-  - Running competitions for the [Massachusetts Coding League](https://github.com/ma-coding-league-org)!
 - 🌱 I’m currently learning:
   - **Python**
   - **Java**
