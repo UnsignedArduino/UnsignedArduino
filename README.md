@@ -9,6 +9,7 @@
   - **CSS**
   - **JavaScript**
   - **TypeScript** (in [MakeCode Arcade](https://arcade.makecode.com/), with [p5js](https://p5js.org/), and/or React)
+  - **Electron**
   - **C++** (also embedded with Arduino)
   - **SQL** and **NoSQL** databases
   - **Buildroot** (with the Raspberry Pi)
