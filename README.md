@@ -20,7 +20,7 @@
   - **3D printing and modeling**
   - **PCB development**
 - 📫 How to reach me: `UnsignedArduino@outlook.com` or [`UnsignedArduino`](https://forum.makecode.com/u/UnsignedArduino/summary) on the [MakeCode Forums](https://forum.makecode.com/).
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Block coding is cool when the project has over 1k blocks.
 
 [![UnsignedArduino's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnsignedArduino&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
