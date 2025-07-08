@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on many things, including:
   - A [digital chessboard](https://github.com/UnsignedArduino/Chessboard-Hardware)!
-  - A website about [MakeCode Arcade](https://awesome-arcade.vercel.app/)!
-  - A [bundler](https://github.com/UnsignedArduino/MakeCode-Arcade-to-App) for MakeCode Arcade games to convert to executables!
+  - A [stock ticker](https://github.com/UnsignedArduino/Pico2W-Stock-Ticker)!
 - 🌱 I’m currently learning:
   - **Python**
   - **Java**
